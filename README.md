@@ -32,7 +32,7 @@ Düsseldorf, Germany · [Gumroad](https://bitmancer.gumroad.com/) · [YouTube](h
   </tr>
 </table>
 
-## In progress
+## WIP
 
 - **[Magpie](https://magpie-theme.com)** — Portfolio theme and page builder for Kirby: modular content blocks, a shared media library, and everything editable from the panel.
 - **[UnseenStream](https://github.com/bitm4ncer/UnseenStream)** — A feed of random YouTube videos you haven't watched yet.
