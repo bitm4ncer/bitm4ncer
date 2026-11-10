@@ -44,6 +44,13 @@ Building digital stuff at the intersection of design, code, music and art.
       A feed of random YouTube videos no one has ever watched.
     </td>
   </tr>
+  <tr>
+    <td width="76" valign="middle"><a href="https://github.com/bitm4ncer/Powerhouse"><img src="assets/powerhouse.svg" width="56" alt="Powerhouse"></a></td>
+    <td valign="middle">
+      <strong><a href="https://github.com/bitm4ncer/Powerhouse">Powerhouse</a></strong><br>
+      My OpenCode harness: configuration, plugins, MCP servers, skills, and tools. One clone, one install script, the same agent on every machine.
+    </td>
+  </tr>
 </table>
 
 ## WIP
