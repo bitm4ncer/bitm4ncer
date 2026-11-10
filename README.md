@@ -12,28 +12,28 @@ Düsseldorf, Germany · [Gumroad](https://bitmancer.gumroad.com/) · [YouTube](h
   <tr>
     <td width="76" valign="middle"><a href="https://radiodock.app"><img src="assets/radiodock.svg" width="56" alt="RadioDock"></a></td>
     <td valign="middle">
-      <strong><a href="https://radiodock.app">RadioDock</a></strong><br>
+      <strong><a href="https://radiodock.app">RadioDock</a></strong> · <a href="https://github.com/bitm4ncer/radiodock.app">GitHub</a><br>
       Internet radio wherever you are: an installable PWA, native apps for Windows, macOS and Linux, and a Chrome extension. 50,000+ stations, no account, no ads, no tracking.
     </td>
   </tr>
   <tr>
     <td width="76" valign="middle"><a href="https://bitm4ncer.github.io/hustl/"><img src="assets/hustl.png" width="56" alt="Hustl"></a></td>
     <td valign="middle">
-      <strong><a href="https://bitm4ncer.github.io/hustl/">Hustl</a></strong><br>
+      <strong><a href="https://bitm4ncer.github.io/hustl/">Hustl</a></strong> · <a href="https://github.com/bitm4ncer/hustl">GitHub</a><br>
       Invoices, offers and finances for freelancers in Germany, self-hosted on your own server. E-invoices as ZUGFeRD/Factur-X. No cloud, no telemetry.
     </td>
   </tr>
   <tr>
     <td width="76" valign="middle"><a href="https://clipmark.de"><img src="assets/clipmark.svg" width="56" alt="Clipmark"></a></td>
     <td valign="middle">
-      <strong><a href="https://clipmark.de">Clipmark</a></strong><br>
+      <strong><a href="https://clipmark.de">Clipmark</a></strong> · <a href="https://github.com/bitm4ncer/clipmark.de">GitHub</a><br>
       Branded profile-picture generators for conferences and companies. Participants create a matching avatar in seconds, and the client never has to edit anything.
     </td>
   </tr>
   <tr>
-    <td width="76" valign="middle"><a href="https://github.com/bitm4ncer/UnseenStream"><img src="assets/unseen.png" width="56" alt="Unseen"></a></td>
+    <td width="76" valign="middle"><a href="https://bitm4ncer.github.io/UnseenStream/"><img src="assets/unseen.png" width="56" alt="Unseen"></a></td>
     <td valign="middle">
-      <strong><a href="https://github.com/bitm4ncer/UnseenStream">Unseen</a></strong><br>
+      <strong><a href="https://bitm4ncer.github.io/UnseenStream/">Unseen</a></strong> · <a href="https://github.com/bitm4ncer/UnseenStream">GitHub</a><br>
       A feed of random YouTube videos you haven't watched yet.
     </td>
   </tr>
