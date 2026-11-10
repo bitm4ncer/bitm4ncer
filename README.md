@@ -1,6 +1,6 @@
 # bitmancer
 
-Building digital stuff at the intersection of design, code and music.
+Building digital stuff at the intersection of design, code, music and art.
 
 Düsseldorf, Germany · [Gumroad](https://bitmancer.gumroad.com/) · [YouTube](https://www.youtube.com/@bitmancer_) · [X](https://x.com/bitmancer_) · [bitmancer@wndrbr.de](mailto:bitmancer@wndrbr.de)
 
@@ -30,12 +30,18 @@ Düsseldorf, Germany · [Gumroad](https://bitmancer.gumroad.com/) · [YouTube](h
       Branded profile-picture generators for conferences and companies. Participants create a matching avatar in seconds, and the client never has to edit anything.
     </td>
   </tr>
+  <tr>
+    <td width="76" valign="middle"><a href="https://github.com/bitm4ncer/UnseenStream"><img src="assets/unseen.png" width="56" alt="Unseen"></a></td>
+    <td valign="middle">
+      <strong><a href="https://github.com/bitm4ncer/UnseenStream">Unseen</a></strong><br>
+      A feed of random YouTube videos you haven't watched yet.
+    </td>
+  </tr>
 </table>
 
 ## WIP
 
 - **[Magpie](https://magpie-theme.com)** — Portfolio theme and page builder for Kirby: modular content blocks, a shared media library, and everything editable from the panel.
-- **[UnseenStream](https://github.com/bitm4ncer/UnseenStream)** — A feed of random YouTube videos you haven't watched yet.
 - **[Biosphere One](https://github.com/bitm4ncer/biosphere_one)** — A live satellite map in the browser: Sentinel-2, night lights, daily cloud cover, and a timeline over a year of imagery. No backend.
 - **[scatalog](https://github.com/bitm4ncer/scatalog)** — Chrome extension for browsing complete label catalogs on Spotify, with related artists and the other labels they're on.
 - **[slammer.app](https://slammer.app)** — Browser-native multi-layer image editor with non-destructive effect stacks and VST-like plugins.
