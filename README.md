@@ -33,7 +33,7 @@ Building digital stuff at the intersection of design, code, music and art.
   <tr>
     <td width="76" valign="middle"><a href="https://clipmark.de"><img src="assets/clipmark.svg" width="56" alt="Clipmark"></a></td>
     <td valign="middle">
-      <strong><a href="https://clipmark.de">Clipmark</a></strong> · <a href="https://github.com/bitm4ncer/clipmark.de">GitHub</a><br>
+      <strong><a href="https://clipmark.de">Clipmark</a></strong><br>
       Branded profile-picture generators for conferences and companies. Participants create a matching avatar in seconds, and the client never has to edit anything.
     </td>
   </tr>
