@@ -6,7 +6,7 @@ Düsseldorf, Germany · [Gumroad](https://bitmancer.gumroad.com/) · [YouTube](h
 
 ---
 
-## Released
+## Projects
 
 <table>
   <tr>
