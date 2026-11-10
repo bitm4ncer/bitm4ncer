@@ -17,6 +17,13 @@ Building digital stuff at the intersection of design, code, music and art.
     </td>
   </tr>
   <tr>
+    <td width="76" valign="middle"><a href="https://bitmancer.gumroad.com/l/toolbridge-complete"><img src="assets/toolbridge.svg" width="56" alt="Toolbridge"></a></td>
+    <td valign="middle">
+      <strong><a href="https://bitmancer.gumroad.com/l/toolbridge-complete">Toolbridge</a></strong><br>
+      Standalone image editor and Affinity 3 extension: pull a layer in, run it through generative and effect tools, and send it back.
+    </td>
+  </tr>
+  <tr>
     <td width="76" valign="middle"><a href="https://bitm4ncer.github.io/hustl/"><img src="assets/hustl.png" width="56" alt="Hustl"></a></td>
     <td valign="middle">
       <strong><a href="https://bitm4ncer.github.io/hustl/">Hustl</a></strong> · <a href="https://github.com/bitm4ncer/hustl">GitHub</a><br>

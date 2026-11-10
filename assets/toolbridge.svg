@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <defs>
+        <clipPath id="toolbridge-rounded">
+            <rect width="800" height="800" rx="176" ry="176"/>
+        </clipPath>
+    </defs>
+    <g clip-path="url(#toolbridge-rounded)">
+        <path d="M800,40L800,760C800,782.077 782.077,800 760,800L40,800C17.923,800 0,782.077 0,760L0,40C0,17.923 17.923,0 40,0L760,0C782.077,0 800,17.923 800,40Z" style="fill:rgb(23,23,23);"/>
+        <g transform="matrix(1.813609,0,0,1.813609,37.641871,-769.998987)">
+            <circle cx="199.799" cy="645.122" r="79.946" style="fill:none;stroke:rgb(167,241,117);stroke-width:29.87px;"/>
+        </g>
+        <g transform="matrix(1.729249,0,0,1,-252.263879,0)">
+            <path d="M377.195,400L85.793,400" style="fill:none;stroke:rgb(167,241,117);stroke-width:38.35px;"/>
+        </g>
+    </g>
+</svg>
