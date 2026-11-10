@@ -20,7 +20,7 @@ Building digital stuff at the intersection of design, code, music and art.
     <td width="76" valign="middle"><a href="https://bitmancer.gumroad.com/l/toolbridge-complete"><img src="assets/toolbridge.svg" width="56" alt="Toolbridge"></a></td>
     <td valign="middle">
       <strong><a href="https://bitmancer.gumroad.com/l/toolbridge-complete">Toolbridge</a></strong><br>
-      Standalone image editor and <a href="https://www.affinity.studio">Affinity</a> 3 extension: pull a layer in, run it through Input, Gen AI, Field, Film Grain emulation, Glitch, Dither and Texture, and send it back. Create generative backgrounds or control Affinity entirely with your agent via a mapped MCP connection.
+      Standalone image editor and <a href="https://www.affinity.studio">Affinity</a> extension: pull a layer in, run it through Input, Gen AI, Field, Film Grain emulation, Glitch, Dither and Texture, and send it back. Create generative backgrounds or control Affinity entirely with your agent via a mapped MCP connection.
     </td>
   </tr>
   <tr>
