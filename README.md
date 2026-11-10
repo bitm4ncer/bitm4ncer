@@ -20,7 +20,7 @@ Building digital stuff at the intersection of design, code, music and art.
     <td width="76" valign="middle"><a href="https://bitm4ncer.github.io/hustl/"><img src="assets/hustl.png" width="56" alt="Hustl"></a></td>
     <td valign="middle">
       <strong><a href="https://bitm4ncer.github.io/hustl/">Hustl</a></strong> · <a href="https://github.com/bitm4ncer/hustl">GitHub</a><br>
-      Invoices, offers and finances for freelancers in Germany, self-hosted on your own server. E-invoices as ZUGFeRD/Factur-X. No cloud, no telemetry.
+      Invoices, offers and finances for freelancers, solo self-employed people, musicians, artists and other independent creatives. Self-hosted on your own server. German e-invoicing (ZUGFeRD/Factur-X). No cloud, no telemetry.
     </td>
   </tr>
   <tr>
