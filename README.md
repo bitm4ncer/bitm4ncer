@@ -2,7 +2,7 @@
 
 Building digital stuff at the intersection of design, code, music and art.
 
-Düsseldorf, Germany · [Gumroad](https://bitmancer.gumroad.com/) · [YouTube](https://www.youtube.com/@bitmancer_) · [X](https://x.com/bitmancer_) · [bitmancer@wndrbr.de](mailto:bitmancer@wndrbr.de)
+[Gumroad](https://bitmancer.gumroad.com/) · [YouTube](https://www.youtube.com/@bitmancer_) · [bitmancer@wndrbr.de](mailto:bitmancer@wndrbr.de)
 
 ---
 
