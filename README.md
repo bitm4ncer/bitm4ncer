@@ -40,7 +40,7 @@ Building digital stuff at the intersection of design, code, music and art.
   <tr>
     <td width="76" valign="middle"><a href="https://bitm4ncer.github.io/UnseenStream/"><img src="assets/unseen.png" width="56" alt="Unseen"></a></td>
     <td valign="middle">
-      <strong><a href="https://bitm4ncer.github.io/UnseenStream/">Unseen</a></strong> · <a href="https://github.com/bitm4ncer/UnseenStream">GitHub</a><br>
+      <strong><a href="https://unseen.bitmancer.net/">Unseen</a></strong> · <a href="https://github.com/bitm4ncer/UnseenStream">GitHub</a><br>
       A feed of random YouTube videos no one has ever watched.
     </td>
   </tr>
