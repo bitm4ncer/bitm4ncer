@@ -45,10 +45,10 @@ Building digital stuff at the intersection of design, code, music and art.
     </td>
   </tr>
   <tr>
-    <td width="76" valign="middle"><a href="https://github.com/bitm4ncer/Powerhouse"><img src="assets/powerhouse.svg" width="56" alt="Powerhouse"></a></td>
+    <td width="76" valign="middle"><a href="https://github.com/bitm4ncer/FontSnatch"><img src="assets/fontsnatch.svg" width="56" alt="FontSnatch"></a></td>
     <td valign="middle">
-      <strong><a href="https://github.com/bitm4ncer/Powerhouse">Powerhouse</a></strong><br>
-      My OpenCode harness: configuration, plugins, MCP servers, skills, and tools. One clone, one install script, the same agent on every machine.
+      <strong><a href="https://github.com/bitm4ncer/FontSnatch">FontSnatch</a></strong><br>
+      List every font a page uses, preview it in the real typeface, and download it as TTF, OTF, or WOFF. A Chrome, Brave, Vivaldi, Edge, and Firefox extension. No account, no server, no telemetry.
     </td>
   </tr>
 </table>
